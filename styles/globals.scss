@@ -25,6 +25,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+  
 }
 
 .text-shadow{
@@ -59,6 +60,10 @@ a {
   text-decoration: none;
 }
 
+
 * {
   box-sizing: border-box;
+}
+.Logo {
+  background-image: url("../public/logo.png");
 }
