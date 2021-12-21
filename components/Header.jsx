@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import Logo1 from '../public/logo.png'
+import Logo1 from '../public/fiver.jpg'
 import Link from 'next/link';
 import { getCategories } from '../services';
 import Image from 'next/image'
